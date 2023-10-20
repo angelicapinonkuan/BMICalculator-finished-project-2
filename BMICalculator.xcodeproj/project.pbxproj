@@ -387,7 +387,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 55E2DEE029EBB736003CEDEF /* Build configuration list for PBXProject "BmiCalculatorAngelica" */;
+			buildConfigurationList = 55E2DEE029EBB736003CEDEF /* Build configuration list for PBXProject "BMICalculator" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -704,7 +704,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		55E2DEE029EBB736003CEDEF /* Build configuration list for PBXProject "BmiCalculatorAngelica" */ = {
+		55E2DEE029EBB736003CEDEF /* Build configuration list for PBXProject "BMICalculator" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				55E2DEF129EBB737003CEDEF /* Debug */,
